@@ -1,0 +1,6 @@
+D:\Matkul kuliah\Semester 2\pemrograman\Responsi\ResponsiPemrograman4498\ResponsiPemrograman4498\bin\Debug\ResponsiPemrograman4498.exe.config
+D:\Matkul kuliah\Semester 2\pemrograman\Responsi\ResponsiPemrograman4498\ResponsiPemrograman4498\bin\Debug\ResponsiPemrograman4498.exe
+D:\Matkul kuliah\Semester 2\pemrograman\Responsi\ResponsiPemrograman4498\ResponsiPemrograman4498\bin\Debug\ResponsiPemrograman4498.pdb
+D:\Matkul kuliah\Semester 2\pemrograman\Responsi\ResponsiPemrograman4498\ResponsiPemrograman4498\obj\Debug\ResponsiPemrograman4498.csprojResolveAssemblyReference.cache
+D:\Matkul kuliah\Semester 2\pemrograman\Responsi\ResponsiPemrograman4498\ResponsiPemrograman4498\obj\Debug\ResponsiPemrograman4498.exe
+D:\Matkul kuliah\Semester 2\pemrograman\Responsi\ResponsiPemrograman4498\ResponsiPemrograman4498\obj\Debug\ResponsiPemrograman4498.pdb
